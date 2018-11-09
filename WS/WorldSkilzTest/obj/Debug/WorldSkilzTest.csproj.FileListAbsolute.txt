@@ -1,0 +1,11 @@
+C:\Users\Пользователь\Desktop\С#\WorldSkilzTest\WorldSkilzTest\bin\Debug\WorldSkilzTest.exe.config
+C:\Users\Пользователь\Desktop\С#\WorldSkilzTest\WorldSkilzTest\bin\Debug\WorldSkilzTest.exe
+C:\Users\Пользователь\Desktop\С#\WorldSkilzTest\WorldSkilzTest\bin\Debug\WorldSkilzTest.pdb
+C:\Users\Пользователь\Desktop\С#\WorldSkilzTest\WorldSkilzTest\obj\Debug\WorldSkilzTest.csprojAssemblyReference.cache
+C:\Users\Пользователь\Desktop\С#\WorldSkilzTest\WorldSkilzTest\obj\Debug\WorldSkilzTest.Properties.Resources.resources
+C:\Users\Пользователь\Desktop\С#\WorldSkilzTest\WorldSkilzTest\obj\Debug\WorldSkilzTest.csproj.GenerateResource.cache
+C:\Users\Пользователь\Desktop\С#\WorldSkilzTest\WorldSkilzTest\obj\Debug\WorldSkilzTest.csproj.CoreCompileInputs.cache
+C:\Users\Пользователь\Desktop\С#\WorldSkilzTest\WorldSkilzTest\obj\Debug\WorldSkilzTest.exe
+C:\Users\Пользователь\Desktop\С#\WorldSkilzTest\WorldSkilzTest\obj\Debug\WorldSkilzTest.pdb
+C:\Users\Пользователь\Desktop\С#\WorldSkilzTest\WorldSkilzTest\obj\Debug\WorldSkilzTest.Main.resources
+C:\Users\Пользователь\Desktop\С#\WorldSkilzTest\WorldSkilzTest\obj\Debug\WorldSkilzTest.Forms.Son.resources
